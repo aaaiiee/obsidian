@@ -1,0 +1,29 @@
+윈도우 폴더 하나 생성 (work 폴더)
+
+1. git 생성 명령어
+git clone https://github.com/aaaiiee/obsidian.git
+
+github 위치
+https://github.com/aaaiiee/obsidian.git
+
+위치
+C:\Users\sungwon.ji\work\obsidian
+
+
+
+----------------------------------------
+git 파일 추가 명령어
+PS C:\Users\sungwon.ji\work\obsidian> git add .\git-test.txt
+
+git 상태 보는 명령어(어떤걸 수정했는지 등등)
+PS C:\Users\sungwon.ji\work\obsidian> git status
+On branch main
+
+No commits yet
+
+Changes to be committed:
+  (use "git rm --cached <file>..." to unstage)
+        new file:   git-test.txt
+----------------------------------------
+
+
