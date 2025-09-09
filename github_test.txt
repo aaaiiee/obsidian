@@ -26,4 +26,12 @@ Changes to be committed:
         new file:   git-test.txt
 ----------------------------------------
 
+1) 파일 추가
+git add aaa.txt
+ 
+2) 커밋할 파일 등록
+git commit -a -m "이력 관리용 코멘트 추가"
+ 
+3) 파일 업로드
+git push origin main
 
